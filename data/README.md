@@ -1,0 +1,1 @@
+The sample network is created in `grid_analysis/sample_network.py`. It is synthetic and illustrative, not an official IEEE benchmark case. If you later add public data, record its source, license, units, and transformations here.
